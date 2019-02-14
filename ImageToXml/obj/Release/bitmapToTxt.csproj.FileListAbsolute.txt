@@ -1,9 +1,0 @@
-C:\Users\Иван\Documents\Visual Studio 2015\Projects\bitmapToTxt\bitmapToTxt\bin\Release\bitmapToTxt.exe.config
-C:\Users\Иван\Documents\Visual Studio 2015\Projects\bitmapToTxt\bitmapToTxt\bin\Release\bitmapToTxt.exe
-C:\Users\Иван\Documents\Visual Studio 2015\Projects\bitmapToTxt\bitmapToTxt\bin\Release\bitmapToTxt.pdb
-C:\Users\Иван\Documents\Visual Studio 2015\Projects\bitmapToTxt\bitmapToTxt\obj\Release\bitmapToTxt.Form1.resources
-C:\Users\Иван\Documents\Visual Studio 2015\Projects\bitmapToTxt\bitmapToTxt\obj\Release\bitmapToTxt.Properties.Resources.resources
-C:\Users\Иван\Documents\Visual Studio 2015\Projects\bitmapToTxt\bitmapToTxt\obj\Release\bitmapToTxt.csproj.GenerateResource.Cache
-C:\Users\Иван\Documents\Visual Studio 2015\Projects\bitmapToTxt\bitmapToTxt\obj\Release\bitmapToTxt.exe
-C:\Users\Иван\Documents\Visual Studio 2015\Projects\bitmapToTxt\bitmapToTxt\obj\Release\bitmapToTxt.pdb
-C:\Users\Иван\Documents\Visual Studio 2015\Projects\bitmapToTxt\bitmapToTxt\obj\Release\bitmapToTxt.csprojResolveAssemblyReference.cache
