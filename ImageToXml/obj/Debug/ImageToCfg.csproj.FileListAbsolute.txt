@@ -1,0 +1,8 @@
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\bitmapToTxt\bitmapToTxt\obj\Debug\bitmapToTxt.Form1.resources
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\bitmapToTxt\bitmapToTxt\obj\Debug\ImageToCfg.csproj.GenerateResource.Cache
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\bitmapToTxt\bitmapToTxt\bin\Debug\ImageToCfg.exe.config
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\bitmapToTxt\bitmapToTxt\bin\Debug\ImageToCfg.exe
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\bitmapToTxt\bitmapToTxt\bin\Debug\ImageToCfg.pdb
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\bitmapToTxt\bitmapToTxt\obj\Debug\ImageToCfg.Properties.Resources.resources
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\bitmapToTxt\bitmapToTxt\obj\Debug\ImageToCfg.exe
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\bitmapToTxt\bitmapToTxt\obj\Debug\ImageToCfg.pdb

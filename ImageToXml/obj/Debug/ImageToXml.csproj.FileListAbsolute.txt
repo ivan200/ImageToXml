@@ -1,0 +1,12 @@
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ImageToXml\ImageToCfg\bin\Debug\ImageToCfg.exe.config
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ImageToXml\ImageToCfg\obj\Debug\ImageToCfg.exe
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ImageToXml\ImageToCfg\obj\Debug\ImageToCfg.pdb
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ImageToXml\ImageToCfg\bin\Debug\ImageToCfg.exe
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ImageToXml\ImageToCfg\bin\Debug\ImageToCfg.pdb
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ImageToXml\ImageToCfg\obj\Debug\ImageToXml.csprojResolveAssemblyReference.cache
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ImageToXml\ImageToCfg\obj\Debug\bitmapToTxt.Form1.resources
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ImageToXml\ImageToCfg\obj\Debug\ImageToCfg.Properties.Resources.resources
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ImageToXml\ImageToCfg\obj\Debug\ImageToXml.csproj.GenerateResource.Cache
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ImageToXml\ImageToXml\bin\Debug\ImageToCfg.exe.config
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ImageToXml\ImageToXml\obj\Debug\ImageToCfg.exe
+C:\Users\Иван\Documents\Visual Studio 2015\Projects\ImageToXml\ImageToXml\obj\Debug\ImageToCfg.pdb
